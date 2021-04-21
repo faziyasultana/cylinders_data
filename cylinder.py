@@ -5,7 +5,6 @@ from pandas import Series, DataFrame
 import plotly.express as px
 import matplotlib.pyplot as plt
 import seaborn as sns
-from PIL import Image
 #st.set_page_config(layout="wide")
 
 col1, col2= st.beta_columns([55,15])
